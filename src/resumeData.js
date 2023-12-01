@@ -1,66 +1,57 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "imagebaseurl":"https://github.com/casanaa",
+    "name": "Anronio Casaña",
+    "role": "Frontend Developer and Campus Gaurdian",
     "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/antonio-casana-155b3346/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"com",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
+        
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I'm currently a Web Development student at Southern Methodist University. My goal is to become a Web Developer with experience in both the front end and the back end. I'm passionate about learning how things work, why they broke down, and how to fix them. I really enjoy learning new things and I'm always open to new ideas and projects..",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Southern Methodist Univerdity",
+        "specialization":"Full Stack Web Development Bootcamp",
+        "MonthOfPassing":"Nov",
+        "YearOfPassing":"2023",
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of North Texas",
+        "specialization":"Bachelor's in Criminal Justice",
+        "MonthOfPassing":"Aug",
+        "YearOfPassing":"2017",
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Carrollton Farmers Branch Independent School District",
+        "specialization":"Credit Recovery Coach",
+        "MonthOfLeaving":"Aug",
+        "YearOfLeaving":"2023",
+        
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Lewisville Independent School District",
+        "specialization":"Campus Guardian",
+        "MonthOfStart":"Aug",
+        "YearOfStart":"2023",
+        
       }
     ],
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"HTML"
       },
       {
         "skillname":"CSS"
@@ -71,36 +62,27 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
+        "name":"Search Engine Optimization",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"React-Portfolio/public/images/Search-Engine-Optimization.jpg"
       },
       {
-        "name":"project2",
+        "name":"Regex-da-T-rex",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"React-Portfolio/public/images/T-Rex.jpg"
       },
       {
-        "name":"project3",
+        "name":"ThisIsFine",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"React-Portfolio/public/images/This Is Fine.jpeg"
       },
       {
-        "name":"project4",
+        "name":"Stunning-Guacamole ",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"React-Portfolio/public/images/Stunning-Guacamole.jpg"
       }
     ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
+    
   }
   
   export default resumeData
